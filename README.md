@@ -87,7 +87,11 @@ The models showed high performance during training and testing:
 
 ### Plots:
 
-Training accuracy and loss curves for each model are plotted for visual comparison.
+- Training accuracy and loss curves for each model are plotted for visual comparison.
+  
+![Losses](plots/losses.png)
+
+![Accuracies](plots/accuracies.png)
 
 ## Saving and Loading Models
 
